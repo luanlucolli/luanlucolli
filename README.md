@@ -5,8 +5,6 @@
 ## Sobre Mim  
 Sou desenvolvedor fullstack em formação, com experiência prática em React e Node.js. Adoro criar interfaces responsivas e intuitivas que oferecem uma experiência única ao usuário. Busco sempre aprender e aplicar novas tecnologias para resolver problemas reais.
 
----
-
 ## Ferramentas e Linguagens  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -35,8 +33,6 @@ Sou desenvolvedor fullstack em formação, com experiência prática em React e 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-
----
 
 📫 **Contato**  
 - Email: [luangstl@gmail.com](mailto:luangstl@gmail.com)  
