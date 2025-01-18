@@ -1,38 +1,9 @@
 # Luan Gustavo Luçolli 🌐
 
-📍 Joinville, SC | 🖥️ Desenvolvedor Web | 💡 Apaixonado por Interfaces Intuitivas  
+📍 Joinville, SC | 🖥️ Desenvolvedor Web |
 
 ## Sobre Mim  
 Sou desenvolvedor fullstack em formação, com experiência prática em React e Node.js. Adoro criar interfaces responsivas e intuitivas que oferecem uma experiência única ao usuário. Busco sempre aprender e aplicar novas tecnologias para resolver problemas reais.
-
-## Tecnologias e Habilidades  
-- **Frontend:** HTML, CSS, JavaScript, React (Básico), TypeScript (Básico)  
-- **Backend:** Node.js (Básico), Express  
-- **Ferramentas:** Git, GitHub, Figma, VS Code  
-- **Metodologias:** Agile, Scrum  
-
-## Projetos Relevantes  
-
-### [ClimaJá - Previsão do Tempo](#)
-Aplicação web para exibir dados climáticos utilizando a OpenWeather API.  
-- Busca por cidade e localização via GPS.  
-- Tecnologias: React, CSS Responsivo, React-Toastify.  
-
-### [Gerenciador de Empresas (CRUD + Offline/Online)](#)
-Sistema web full-stack com funcionalidades de CRUD, validação de dados e sincronização offline/online.  
-- Tecnologias: React, Node.js, LocalStorage, API REST.  
-
-### [CarboZero - Gestão de Créditos de Carbono](#)
-Plataforma web para monitoramento e gerenciamento de créditos de carbono.  
-- Foco em usabilidade e interatividade com renderização dinâmica.  
-- Tecnologias: HTML, CSS, JavaScript.  
-
-## Formação  
-- **Senai Joinville Sul** - Desenvolvimento de Sistemas (06/2023 – 06/2025)  
-- Certificações em Desenvolvimento Frontend, Ciência da Computação e Cibersegurança.  
-
-## Experiência  
-- **Engenheiro de Software Trainee - Charged Cloud** (01/2025 - Presente)  
 
 ---
 
