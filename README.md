@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luan</h1>
 
 - 🎓 I’m a **developer in training**, currently studying System Development at SENAI Joinville Sul.  
-- 💼 Working on building my **portfolio projects**, focusing on React.js and Node.js.  
+- 💼 Currently working as a trainee software engineer  
 - 🌱 I’m currently learning **React.js** to create dynamic and responsive web applications.  
 
 
