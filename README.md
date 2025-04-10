@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luan</h1>
+<h1 align="center">Hi, I'm Luan</h1>
 
 - 🎓 I’m a **developer in training**, currently studying System Development at SENAI Joinville Sul.  
 - 💼 Currently working as a trainee software engineer  
