@@ -4,7 +4,7 @@
 
 Foco atual em desenvolvimento backend, construção de APIs REST robustas e fundamentos da computação.
 
-- **Stack Principal:** TypeScript, Node.js, PHP, MySQL.
+- **Stack Principal:** Node.js, Laravel, NestJS.
 - **Estudando:** Go (Backend services), CS50x (Algorithms & Data Structures).
 - **Interesses:** Linux, Web Performance, DevOps.
 
