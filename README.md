@@ -1,6 +1,6 @@
 # Luan Gustavo
 
-**Junior Software Developer** @ Catarinense Soluções Financeiras.
+**Software Developer** @ Catarinense Soluções Financeiras.
 
 Foco atual em desenvolvimento backend, construção de APIs REST robustas e fundamentos da computação.
 
