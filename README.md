@@ -6,7 +6,7 @@ Foco atual em desenvolvimento backend, construção de APIs REST robustas e fund
 
 - **Stack Principal:** Node.js, Laravel, NestJS.
 - **Estudando:** Go (Backend services), CS50x (Algorithms & Data Structures).
-- **Interesses:** Linux, Web Performance, DevOps.
+- **Interesses:** Linux, Webdev, DevOps.
 
 ### Tech Stack
 
