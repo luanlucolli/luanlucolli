@@ -4,7 +4,7 @@
 
 Construo aplicações web com foco em backend, desenvolvendo APIs REST e sistemas escaláveis.
 
-- **Stack Principal:** PHP (Laravel), Node.js (NestJS) e React.
+- **Stack Principal:** PHP (Laravel), Node.js (NestJS), Go e React.
 - **Foco Técnico:** Processamento assíncrono (filas/jobs), integrações de APIs e infraestrutura com Docker/Linux.
 - **Estudos Atuais:** Redes de Computadores (IFC) e aprimoramento em Go para serviços backend.
 
