@@ -4,7 +4,7 @@
 
 Construo aplicações web e desktop (Electron).
 
-- **Stack Principal:** PHP (Laravel), Node.js (NestJS), Go e React.
+- **Stack Principal:** PHP (Laravel), Node.js, Go e React.
 - **Foco Técnico:** Processamento assíncrono (filas/jobs), integrações de APIs e infraestrutura com Docker/Linux.
 - **Estudos Atuais:** Redes de Computadores (IFC) e aprimoramento em Go para serviços backend.
 
