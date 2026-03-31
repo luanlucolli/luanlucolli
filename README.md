@@ -6,10 +6,10 @@ Construo aplicações web com foco em backend, desenvolvendo APIs REST e sistema
 
 ### Foco e Experiência
 
-* **Backend:** Desenvolvimento com PHP (Laravel) e Node.js/TypeScript (NestJS). Experiência prática na construção de APIs, gerenciamento de filas e rotinas em background.
+* **Backend:** Desenvolvimento com PHP (Laravel), Node.js/TypeScript (NestJS) e Go. Experiência prática na construção de APIs, gerenciamento de filas e rotinas em background.
 * **Frontend:** Criação de interfaces dinâmicas, painéis de gestão e dashboards utilizando React.
-* **Infraestrutura & Dados:** Modelagem e otimização de bancos relacionais (MySQL/MariaDB). Deploy e operação de serviços utilizando Docker e ambientes Linux.
-* **Estudos Atuais:** Cursando Redes de Computadores e explorando a linguagem Go para serviços backend.
+* **Infraestrutura & Dados:** Modelagem e otimização de bancos relacionais. Deploy e operação de serviços utilizando Docker e ambientes Linux.
+* **Estudos Atuais:** Cursando Redes de Computadores e dominando a linguagem Go para serviços backend.
 
 ### Tech Stack Principal
 
