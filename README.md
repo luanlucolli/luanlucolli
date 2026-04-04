@@ -6,7 +6,7 @@ Construo aplicações web e desktop.
 
 - **Stack Principal:** PHP (Laravel), Node.js, Go e React.
 - **Foco Técnico:** Processamento assíncrono (filas/jobs), integrações de APIs e infraestrutura com Docker/Linux.
-- **Estudos Atuais:** Redes de Computadores (IFC) e aprimoramento em Go para serviços backend.
+- **Estudos Atuais:** Cursando Redes de Computadores (Instituto Federal Catarinense) e aprimoramento em Go para serviços backend.
 
 ### Tech Stack
 
