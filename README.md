@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** @ Catarinense Soluções Financeiras
 
-- **Stack Principal:** PHP (Laravel), Node.js, Go e React.
+- **Stack Principal:** PHP (Laravel), Node.js, Go e JS/TS.
 - **Foco Técnico:** Construo aplicações web e desktop, integrações de APIs e infraestrutura com Docker/Linux.
 - **Estudos Atuais:** Cursando Redes de Computadores (Instituto Federal Catarinense) e dominando Go para serviços backend.
 
