@@ -23,6 +23,4 @@
 
 ### Contato
 
-- **Localização:** Joinville, SC
-- **LinkedIn:** [luan-gustavo-lucolli](https://www.linkedin.com/in/luan-gustavo-lucolli/)
 - **Email:** luangstl@gmail.com
